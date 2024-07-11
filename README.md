@@ -40,7 +40,7 @@
 
 <h2> 🌐 Web Development </h2>
 <h3 align="center"><a href="https://github.com/LeikaGalvez/simple_portfolio">Dynamic Portfolio</a></h3>
-
+<p align="center">Link to website: <a href="http://galvezdyportfolio.42web.io/">Link</a></p>
 
 #
 #
