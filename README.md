@@ -20,19 +20,46 @@
 #
 #
 
-<h1 align="center">📊 Data Visualization Projects</h1>
-<h3 align="center"><a href="https://public.tableau.com/views/AwesomeChocolateDashboardReport_17152700257660/AwesomeChocolateDashboardReport?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Awesome Chocolate Dashboard Report | Tableau</a></h3>
-<h3 align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiOGQ1MGFjMmMtMTZmMy00NmQ5LTk1NmItOTEyN2Y3NGQxZmRhIiwidCI6ImNlZjEwOWEwLTE5YmUtNDQ3Yy05NzFhLTk5NTg4OWJiNGU0YSIsImMiOjEwfQ%3D%3D">Superstore Power Report | PowerBI</a></h3>
-<h3 align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiYzlhNzMyZTMtNDVhYS00NTJlLWI4MDctZjUzNzdmY2Y1N2YzIiwidCI6ImNlZjEwOWEwLTE5YmUtNDQ3Yy05NzFhLTk5NTg4OWJiNGU0YSIsImMiOjEwfQ%3D%3D">Soda Report for 2022 | PowerBI</a></h3>
-<h3 align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiZTMzMGUwNzctNmE1Yi00MTgzLTgzYjgtZDgwZmQ3NTQyMGE4IiwidCI6ImNlZjEwOWEwLTE5YmUtNDQ3Yy05NzFhLTk5NTg4OWJiNGU0YSIsImMiOjEwfQ%3D%3D">Snack Food Sales Report | PowerBI</a></h3>
+<h1 align="center">💻 Projects</h1>
+
+<h2>📊 Data Visualization</h2>
+<h3 align="center"><a href="https://public.tableau.com/views/AwesomeChocolateDashboardReport_17152700257660/AwesomeChocolateDashboardReport?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">● Awesome Chocolate Dashboard Report | Tableau</a></h3>
+<h3 align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiOGQ1MGFjMmMtMTZmMy00NmQ5LTk1NmItOTEyN2Y3NGQxZmRhIiwidCI6ImNlZjEwOWEwLTE5YmUtNDQ3Yy05NzFhLTk5NTg4OWJiNGU0YSIsImMiOjEwfQ%3D%3D">● Superstore Power Report | PowerBI</a></h3>
+<h3 align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiYzlhNzMyZTMtNDVhYS00NTJlLWI4MDctZjUzNzdmY2Y1N2YzIiwidCI6ImNlZjEwOWEwLTE5YmUtNDQ3Yy05NzFhLTk5NTg4OWJiNGU0YSIsImMiOjEwfQ%3D%3D">● Soda Report for 2022 | PowerBI</a></h3>
+<h3 align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiZTMzMGUwNzctNmE1Yi00MTgzLTgzYjgtZDgwZmQ3NTQyMGE4IiwidCI6ImNlZjEwOWEwLTE5YmUtNDQ3Yy05NzFhLTk5NTg4OWJiNGU0YSIsImMiOjEwfQ%3D%3D">● Snack Food Sales Report | PowerBI</a></h3>
+
+#
+<h2> ⌨️ Design Patterns (Java) </h2>
+<h3 align="center"><a href="https://github.com/LeikaGalvez/adapterPattern">●  Adapter Design Pattern</a></h3>
+<h3 align="center"><a href="https://github.com/LeikaGalvez/visitorPattern">●  Visitor Design Pattern</a></h3>
+<h3 align="center"><a href="https://github.com/LeikaGalvez/decoratorPattern">●  Decorator Design Pattern</a></h3>
+<h3 align="center"><a href="https://github.com/LeikaGalvez/SOLID_designPattern">●  SOLID Principles with Design Pattern</a></h3>
+<h3 align="center"><a href="https://github.com/LeikaGalvez/builderPattern">●  Builder Design Pattern</a></h3>
+
+#
+
+<h2> 🌐 Web Development </h2>
+<h3 align="center"><a href="https://github.com/LeikaGalvez/simple_portfolio">Dynamic Portfolio</a></h3>
+
+
+#
+#
+
+<h3 align="left"> 🖥️ Specific Skillsets </h3>
+<p align="left">● Data Visualization Tools: PowerBI, Tableau</p>
+<p align="left">● Programming Languages: Java, Python, PHP, HTML</p>
+<p align="left">● DBMS: DB2</p>
+<p align="left">● Dev Tools: Github, IntelliJ Idea, Visual Studio Code, Lucidchart, Eclipse, JasperSoft Studio, Notepad++ </p>
+
 
 #
 #
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leika-anne-galvez-8702b8259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leika-anne-galvez-8702b8259/" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <p>Email: leikagalvez@gmail.com</p>
+  <p><a href="https://www.linkedin.com/in/leika-anne-galvez-8702b8259/">LinkedIn: Leika Anne Galvez</a></p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
