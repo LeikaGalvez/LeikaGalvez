@@ -57,7 +57,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <p>Email: leikagalvez@gmail.com</p>
+  <p><a href= "mailto: name@email.com">Email: leikagalvez@gmail.com</a></p>
   <p><a href="https://www.linkedin.com/in/leika-anne-galvez-8702b8259/">LinkedIn: Leika Anne Galvez</a></p>
 </div>
 
