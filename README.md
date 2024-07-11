@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leika Anne Galvez!</h1>
-<h3 align="center">I am 20 years old, currently on the path to finish my Bachelor's degree in Computer Science at New Era University.</h3>
+<h3 align="center">I am 20 years old, currently on the path to finish my Bachelor's degree in Computer Science at New Era University. I like to hone my skills in programming, data visualization, and design. My main programming language is Java, but I'm always eager to learn and adapt something new. </h3>
 
 #
 
