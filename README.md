@@ -16,6 +16,8 @@
 <p>Issued: 25 June 2024</p>
 <h3><a href="https://www.credly.com/badges/c25f05a0-ffd7-41ba-a0a3-cff17c5be7ac/public_url">✪ Data Analytics Essentials</a></h3>
 <p>Issued: 10 October 2023</p>
+<h3><a href="https://simpli-web.app.link/e/ZyZojh5lnLb">✪ Business Analytics with Excel</a></h3>
+<p>Issued: 07 September 2023</p>
 <h3><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0AF86543B254D63A15DECB0C62AA63A8731AEC360E0EACC6D830EC6EAC802575&fbclid=IwAR1w8PQ5IpybsCwhuq6T_wNleDiIb05GSwbscs5jcVorS9rMQg41md2BUos">✪ Oracle Cloud Data Management 2022 Foundations Certified Associate</a></h3>
 <p>Issued: 09 December 2022</p>
 <h3><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=648B9D3F38D4158A510C1D1577345C31943428707DC74E1780D3A7696B0FB36E&fbclid=IwAR1WhLU39o665MXjbBgeYuSrG3mrxMdXR_L9-MSaKN46hPzdl9lT1mG3q6A">✪ Oracle Cloud Infrastructure 2022 Certified Foundations Associate</a></h3>
